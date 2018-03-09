@@ -9,7 +9,7 @@ package chap02expressivepuzzlers;
  * @author SpringZ
  * @version 1.0.0  2018-03-07.
  */
-public class Puzzle1Oddity {
+public class Puzzle01Oddity {
     public static void main(String[] args) {
         int testValue = -31;
         System.out.println("Use the wrong way to test: Is [" + testValue + "] odd? Result: " + isOddTheWrongWay(testValue));
