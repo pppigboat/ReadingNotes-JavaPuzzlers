@@ -12,7 +12,7 @@ import java.math.BigDecimal;
  * 4. 2使用float类弄描述为1.0p1
  * 5. 参考资料https://blog.csdn.net/zq602316498/article/details/41148063
  * 6. 使用大整数进行计算的时候，一定要使用BigDecimal(String)，而不是BigDecimal(double)，否则还是表示的近似值。
- * 7. 在进行金额计算的时候，尽量使用int,long或者BigDecimal。
+ * 7. 在进行金额计算的时候，尽量使用int,long或者BigDecimal。BigDecimal可能会慢，但是一般情况下，这不是个事儿。
  *
  * @author SpringZ
  * @version 1.0.0  2018-03-09.
