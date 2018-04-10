@@ -1,7 +1,7 @@
 package chap02expressivepuzzlers;
 
 /**
- * 使用long时，注意要确保第一个操作数是long型，这样就可以避免溢出
+ * 使用long时，注意要确保第一个操作数是long型，这样避免溢出
  *
  * @author SpringZ
  * @version 1.0.0  2018-03-28.
