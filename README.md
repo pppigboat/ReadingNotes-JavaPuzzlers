@@ -1,2 +1,4 @@
 # ReadingNotes-JavaPuzzlers
-Java Puzzlers 代码和读笔记
+## 总结
+1. 编码时尽可能简单明了，避免使用奇技淫巧。
+2. 
